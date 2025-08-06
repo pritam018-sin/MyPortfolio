@@ -1,0 +1,12 @@
+:root {
+  --multi-glow-bg: radial-gradient(circle at 20% 20%, rgba(239, 68, 68, 0.2) 0%, transparent 40%),
+                   radial-gradient(circle at 80% 80%, rgba(220, 38, 38, 0.2) 0%, transparent 40%),
+                   radial-gradient(circle at 50% 50%, rgba(185, 28, 28, 0.2) 0%, transparent 50%),
+                   black;
+}
+body{
+  background: var(--multi-glow-bg) no-repeat;
+  /* color: var(--text-color); */
+}
+/* cursor-glow.css */
+
