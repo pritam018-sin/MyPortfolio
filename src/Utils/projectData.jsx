@@ -69,7 +69,7 @@ export const projects = [
     technologies: ["React", "Tailwind CSS","Framer-Motion"],
     category: "frontend",
     github: "https://github.com/pritam018-sin/real-estate-portfolio.git", // update if available
-    live: "https://real-estate-portfolio.netlify.app", // update if deployed
+    live: "https://estate-pritam.netlify.app/", // update if deployed
     image: RealState,
   },
   {
