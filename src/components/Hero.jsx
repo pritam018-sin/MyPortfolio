@@ -48,7 +48,7 @@ const Hero = () => {
           </Link>
             <button className=' bg-red-500/20 text-red-300 border rounded-lg py-2 px-2 border-red-400/30 w-fit hover:bg-red-600 hover:text-white' >
               <motion.a
-                href="/Resume-Pritam-Singh.pdf"
+                href="/Resume_pritam.pdf"
                 download
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
