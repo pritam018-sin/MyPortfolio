@@ -15,7 +15,7 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        "service_286u828",
+        "service_ls7fb2i",
         "template_sv1judi",
         form.current,
         "u9Wj57e0HXxg2xdio"
